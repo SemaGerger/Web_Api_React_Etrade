@@ -7,6 +7,7 @@ using Mvc_Api_Etrade.Repository.Concretes;
 using Mvc_Api_Etrade.Response;
 using Mvc_Api_Etrade.UoW;
 
+//deneme
 namespace Mvc_Api_Etrade.Api.Controllers
 {
     [Route("api/[controller]/[action]")]
