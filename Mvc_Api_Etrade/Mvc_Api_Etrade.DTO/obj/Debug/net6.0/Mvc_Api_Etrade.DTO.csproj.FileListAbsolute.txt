@@ -1,0 +1,12 @@
+D:\Github\Asp.Net_Mvc_Api_Etrade\Mvc_Api_Etrade\Mvc_Api_Etrade.DTO\bin\Debug\net6.0\Mvc_Api_Etrade.DTO.deps.json
+D:\Github\Asp.Net_Mvc_Api_Etrade\Mvc_Api_Etrade\Mvc_Api_Etrade.DTO\bin\Debug\net6.0\Mvc_Api_Etrade.DTO.dll
+D:\Github\Asp.Net_Mvc_Api_Etrade\Mvc_Api_Etrade\Mvc_Api_Etrade.DTO\bin\Debug\net6.0\Mvc_Api_Etrade.DTO.pdb
+D:\Github\Asp.Net_Mvc_Api_Etrade\Mvc_Api_Etrade\Mvc_Api_Etrade.DTO\obj\Debug\net6.0\Mvc_Api_Etrade.DTO.csproj.AssemblyReference.cache
+D:\Github\Asp.Net_Mvc_Api_Etrade\Mvc_Api_Etrade\Mvc_Api_Etrade.DTO\obj\Debug\net6.0\Mvc_Api_Etrade.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Asp.Net_Mvc_Api_Etrade\Mvc_Api_Etrade\Mvc_Api_Etrade.DTO\obj\Debug\net6.0\Mvc_Api_Etrade.DTO.AssemblyInfoInputs.cache
+D:\Github\Asp.Net_Mvc_Api_Etrade\Mvc_Api_Etrade\Mvc_Api_Etrade.DTO\obj\Debug\net6.0\Mvc_Api_Etrade.DTO.AssemblyInfo.cs
+D:\Github\Asp.Net_Mvc_Api_Etrade\Mvc_Api_Etrade\Mvc_Api_Etrade.DTO\obj\Debug\net6.0\Mvc_Api_Etrade.DTO.csproj.CoreCompileInputs.cache
+D:\Github\Asp.Net_Mvc_Api_Etrade\Mvc_Api_Etrade\Mvc_Api_Etrade.DTO\obj\Debug\net6.0\Mvc_Api_Etrade.DTO.dll
+D:\Github\Asp.Net_Mvc_Api_Etrade\Mvc_Api_Etrade\Mvc_Api_Etrade.DTO\obj\Debug\net6.0\refint\Mvc_Api_Etrade.DTO.dll
+D:\Github\Asp.Net_Mvc_Api_Etrade\Mvc_Api_Etrade\Mvc_Api_Etrade.DTO\obj\Debug\net6.0\Mvc_Api_Etrade.DTO.pdb
+D:\Github\Asp.Net_Mvc_Api_Etrade\Mvc_Api_Etrade\Mvc_Api_Etrade.DTO\obj\Debug\net6.0\ref\Mvc_Api_Etrade.DTO.dll

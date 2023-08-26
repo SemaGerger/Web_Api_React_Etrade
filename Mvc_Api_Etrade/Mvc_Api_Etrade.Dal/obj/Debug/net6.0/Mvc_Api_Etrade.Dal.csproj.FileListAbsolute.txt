@@ -1,0 +1,17 @@
+D:\Github\Asp.Net_Mvc_Api_Etrade\Mvc_Api_Etrade\Mvc_Api_Etrade.Dal\bin\Debug\net6.0\Mvc_Api_Etrade.Dal.deps.json
+D:\Github\Asp.Net_Mvc_Api_Etrade\Mvc_Api_Etrade\Mvc_Api_Etrade.Dal\bin\Debug\net6.0\Mvc_Api_Etrade.Dal.runtimeconfig.json
+D:\Github\Asp.Net_Mvc_Api_Etrade\Mvc_Api_Etrade\Mvc_Api_Etrade.Dal\bin\Debug\net6.0\Mvc_Api_Etrade.Dal.dll
+D:\Github\Asp.Net_Mvc_Api_Etrade\Mvc_Api_Etrade\Mvc_Api_Etrade.Dal\bin\Debug\net6.0\Mvc_Api_Etrade.Dal.pdb
+D:\Github\Asp.Net_Mvc_Api_Etrade\Mvc_Api_Etrade\Mvc_Api_Etrade.Dal\bin\Debug\net6.0\Mvc_Api_Etrade.Entity.dll
+D:\Github\Asp.Net_Mvc_Api_Etrade\Mvc_Api_Etrade\Mvc_Api_Etrade.Dal\bin\Debug\net6.0\Mvc_Api_Etrade.Entity.pdb
+D:\Github\Asp.Net_Mvc_Api_Etrade\Mvc_Api_Etrade\Mvc_Api_Etrade.Dal\obj\Debug\net6.0\Mvc_Api_Etrade.Dal.csproj.AssemblyReference.cache
+D:\Github\Asp.Net_Mvc_Api_Etrade\Mvc_Api_Etrade\Mvc_Api_Etrade.Dal\obj\Debug\net6.0\Mvc_Api_Etrade.Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Asp.Net_Mvc_Api_Etrade\Mvc_Api_Etrade\Mvc_Api_Etrade.Dal\obj\Debug\net6.0\Mvc_Api_Etrade.Dal.AssemblyInfoInputs.cache
+D:\Github\Asp.Net_Mvc_Api_Etrade\Mvc_Api_Etrade\Mvc_Api_Etrade.Dal\obj\Debug\net6.0\Mvc_Api_Etrade.Dal.AssemblyInfo.cs
+D:\Github\Asp.Net_Mvc_Api_Etrade\Mvc_Api_Etrade\Mvc_Api_Etrade.Dal\obj\Debug\net6.0\Mvc_Api_Etrade.Dal.csproj.CoreCompileInputs.cache
+D:\Github\Asp.Net_Mvc_Api_Etrade\Mvc_Api_Etrade\Mvc_Api_Etrade.Dal\obj\Debug\net6.0\Mvc_Api_Etrade.Dal.csproj.CopyComplete
+D:\Github\Asp.Net_Mvc_Api_Etrade\Mvc_Api_Etrade\Mvc_Api_Etrade.Dal\obj\Debug\net6.0\Mvc_Api_Etrade.Dal.dll
+D:\Github\Asp.Net_Mvc_Api_Etrade\Mvc_Api_Etrade\Mvc_Api_Etrade.Dal\obj\Debug\net6.0\refint\Mvc_Api_Etrade.Dal.dll
+D:\Github\Asp.Net_Mvc_Api_Etrade\Mvc_Api_Etrade\Mvc_Api_Etrade.Dal\obj\Debug\net6.0\Mvc_Api_Etrade.Dal.pdb
+D:\Github\Asp.Net_Mvc_Api_Etrade\Mvc_Api_Etrade\Mvc_Api_Etrade.Dal\obj\Debug\net6.0\Mvc_Api_Etrade.Dal.genruntimeconfig.cache
+D:\Github\Asp.Net_Mvc_Api_Etrade\Mvc_Api_Etrade\Mvc_Api_Etrade.Dal\obj\Debug\net6.0\ref\Mvc_Api_Etrade.Dal.dll

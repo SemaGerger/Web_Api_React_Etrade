@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.20" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.20" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.20">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Mvc_Api_Etrade.Dal\Mvc_Api_Etrade.Dal.csproj" />
+    <ProjectReference Include="..\Mvc_Api_Etrade.DTO\Mvc_Api_Etrade.DTO.csproj" />
+    <ProjectReference Include="..\Mvc_Api_Etrade.Repository\Mvc_Api_Etrade.Repository.csproj" />
+    <ProjectReference Include="..\Mvc_Api_Etrade.Response\Mvc_Api_Etrade.Response.csproj" />
+    <ProjectReference Include="..\Mvc_Api_Etrade.UoW\Mvc_Api_Etrade.UoW.csproj" />
+  </ItemGroup>
+
+</Project>

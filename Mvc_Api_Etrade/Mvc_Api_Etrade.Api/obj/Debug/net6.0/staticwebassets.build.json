@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ykpgKYB5KWkycInJsuxkxBoXY30dpjHmKn1ECnn/xrE=",
+  "Source": "Mvc_Api_Etrade.Api",
+  "BasePath": "_content/Mvc_Api_Etrade.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
