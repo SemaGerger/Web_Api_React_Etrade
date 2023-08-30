@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KV8x77Dzy5XPpt/H/shB2RyZxm70kwI97yCmJxRF8I9rDfvtIlTaobbnNcUbmJFE45Hh79wDRXi5dsEkI2yJaw==",
+  "dgSpecHash": "eGxbnDGlLLAp4vjKqDTJAJy0T7VCfp0NiOv8SI7F5RmTSzzZ04OjRLlw/kBP5kNsY4hdBqcKLKHmaQoHK6jMZA==",
   "success": true,
-  "projectFilePath": "D:\\Github\\Asp.Net_Mvc_Api_Etrade\\Mvc_Api_Etrade\\Mvc_Api_Etrade.UoW\\Mvc_Api_Etrade.UoW.csproj",
+  "projectFilePath": "D:\\Github\\Web_Api_React_Etrade\\Mvc_Api_Etrade\\Mvc_Api_Etrade.UoW\\Mvc_Api_Etrade.UoW.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

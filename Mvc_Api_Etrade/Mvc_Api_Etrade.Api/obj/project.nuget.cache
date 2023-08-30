@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2ln1GT37/0gxwRCOoCG66t1tqJeX+cF4mNAEMb7TI4RG7UAaMCL+b/9NAAlndZbNWoyMFfJ0vnTgXSyQ1pRGgQ==",
+  "dgSpecHash": "qNHMSgSyNG43qKMoDZAfW/sHtqJ2OpEjggGDT45HFzIy0exa5IlkQmM04h85PV+Pz9gXrWGBkM4POVNwe+xJ4g==",
   "success": true,
-  "projectFilePath": "D:\\Github\\Asp.Net_Mvc_Api_Etrade\\Mvc_Api_Etrade\\Mvc_Api_Etrade.Api\\Mvc_Api_Etrade.Api.csproj",
+  "projectFilePath": "D:\\Github\\Web_Api_React_Etrade\\Mvc_Api_Etrade\\Mvc_Api_Etrade.Api\\Mvc_Api_Etrade.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

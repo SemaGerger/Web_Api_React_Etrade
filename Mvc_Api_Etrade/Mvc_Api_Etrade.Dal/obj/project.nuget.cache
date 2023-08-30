@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bSaHdz9HaqqRrcwpLPos9jC+ibfhrk7/7axUhOmkjaCtayR/p4/VXpTipyYiHn//7iUUa+r+8zp/gsfzbqlGuw==",
+  "dgSpecHash": "U0+05qFZV3EsAykpJBsfwUZUMG3AkAkmizH3YJ7Wsge1y4nGsDtw3mfzoiX3uQWUT9huFI1NFLGVhsKi702Ecw==",
   "success": true,
-  "projectFilePath": "D:\\Github\\Asp.Net_Mvc_Api_Etrade\\Mvc_Api_Etrade\\Mvc_Api_Etrade.Dal\\Mvc_Api_Etrade.Dal.csproj",
+  "projectFilePath": "D:\\Github\\Web_Api_React_Etrade\\Mvc_Api_Etrade\\Mvc_Api_Etrade.Dal\\Mvc_Api_Etrade.Dal.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

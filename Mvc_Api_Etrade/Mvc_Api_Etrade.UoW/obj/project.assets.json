@@ -2068,11 +2068,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\Asp.Net_Mvc_Api_Etrade\\Mvc_Api_Etrade\\Mvc_Api_Etrade.UoW\\Mvc_Api_Etrade.UoW.csproj",
+      "projectUniqueName": "D:\\Github\\Web_Api_React_Etrade\\Mvc_Api_Etrade\\Mvc_Api_Etrade.UoW\\Mvc_Api_Etrade.UoW.csproj",
       "projectName": "Mvc_Api_Etrade.UoW",
-      "projectPath": "D:\\Github\\Asp.Net_Mvc_Api_Etrade\\Mvc_Api_Etrade\\Mvc_Api_Etrade.UoW\\Mvc_Api_Etrade.UoW.csproj",
+      "projectPath": "D:\\Github\\Web_Api_React_Etrade\\Mvc_Api_Etrade\\Mvc_Api_Etrade.UoW\\Mvc_Api_Etrade.UoW.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\Asp.Net_Mvc_Api_Etrade\\Mvc_Api_Etrade\\Mvc_Api_Etrade.UoW\\obj\\",
+      "outputPath": "D:\\Github\\Web_Api_React_Etrade\\Mvc_Api_Etrade\\Mvc_Api_Etrade.UoW\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2094,8 +2094,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Github\\Asp.Net_Mvc_Api_Etrade\\Mvc_Api_Etrade\\Mvc_Api_Etrade.Repository\\Mvc_Api_Etrade.Repository.csproj": {
-              "projectPath": "D:\\Github\\Asp.Net_Mvc_Api_Etrade\\Mvc_Api_Etrade\\Mvc_Api_Etrade.Repository\\Mvc_Api_Etrade.Repository.csproj"
+            "D:\\Github\\Web_Api_React_Etrade\\Mvc_Api_Etrade\\Mvc_Api_Etrade.Repository\\Mvc_Api_Etrade.Repository.csproj": {
+              "projectPath": "D:\\Github\\Web_Api_React_Etrade\\Mvc_Api_Etrade\\Mvc_Api_Etrade.Repository\\Mvc_Api_Etrade.Repository.csproj"
             }
           }
         }

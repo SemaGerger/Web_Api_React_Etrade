@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o7rza2+vMjK6xFNuowM/k8CRV0u2TTs83EPyitIrj5pyPIGTT1IIcAQQ1YyrfpQdpAm/n0J8TtMInYkCPVG5Fw==",
+  "dgSpecHash": "21RVa8vvFBstLQxBnHUb66y2WLG4OwvBlErOXFFwlIXUdvjorUbnyxZNdnj2iuF08u26LhXWEDXe8/7m9JIT0A==",
   "success": true,
-  "projectFilePath": "D:\\Github\\Asp.Net_Mvc_Api_Etrade\\Mvc_Api_Etrade\\Mvc_Api_Etrade.Entity\\Mvc_Api_Etrade.Entity.csproj",
+  "projectFilePath": "D:\\Github\\Web_Api_React_Etrade\\Mvc_Api_Etrade\\Mvc_Api_Etrade.Entity\\Mvc_Api_Etrade.Entity.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

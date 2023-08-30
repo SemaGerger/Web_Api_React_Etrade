@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8oaqGyMMzexxixjPJgvnGmQbL2Ysa/QvPVUOEibTq3zV/FLrtf2DaP4JDlhaypDNZ7+bfeDyRJkMqLZJI/I8Mg==",
+  "dgSpecHash": "4wLqk8xZZBgwa+IGQ+oGVXQL1l07U0uZZUEuXOt6SiIkEGfJmBhRQXGuNRtUuJ6FX3nt4xr5WRRYhJDh/sWArQ==",
   "success": true,
-  "projectFilePath": "D:\\Github\\Asp.Net_Mvc_Api_Etrade\\Mvc_Api_Etrade\\Mvc_Api_Etrade.Core\\Mvc_Api_Etrade.Core.csproj",
+  "projectFilePath": "D:\\Github\\Web_Api_React_Etrade\\Mvc_Api_Etrade\\Mvc_Api_Etrade.Core\\Mvc_Api_Etrade.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
